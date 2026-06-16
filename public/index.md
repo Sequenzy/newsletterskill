@@ -2,9 +2,9 @@
 
 newsletterskill.com
 
-Newsletter Skill for agents that work on email systems.
+Plan newsletter issues agents can brief, draft, and review repeatedly.
 
-A compact skill for editorial calendars, issue structures, sponsorship slots, and subscriber growth, built for Codex, Hermes, OpenClaw, Claude Code, Cowork, Goose, Cursor, Windsurf, and other skill-aware agents. It gives agents intake questions, review gates, QA checks, and handoff formats for production email work.
+A newsletter skill for agents working with calendars, issue structure, sponsorship inventory, reader feedback, and editorial QA.
 
 ## Install
 
@@ -12,16 +12,43 @@ A compact skill for editorial calendars, issue structures, sponsorship slots, an
 npx skills add newsletterskill
 ```
 
-Raw skill folder: `skills/newsletterskill`
+## Operating Data
 
-## Use Cases
+- **12**: issue slots
+- **4**: reader signals
+- **3**: sponsor checks
 
-- **Issue planning**: Give agents a bounded way to inspect inputs, propose changes, and surface approval points before anything reaches subscribers.
-- **Sponsor inventory**: Give agents a bounded way to inspect inputs, propose changes, and surface approval points before anything reaches subscribers.
-- **Reader survey synthesis**: Give agents a bounded way to inspect inputs, propose changes, and surface approval points before anything reaches subscribers.
+## Issue planning board
 
-## Guides
+1. Theme
+2. Lead story
+3. Utility block
+4. Sponsor slot
+5. Reader CTA
 
-- [How to Build an Agent-Ready Newsletter Strategy](/articles/agent-ready-email-strategy/index.md)
-- [The Practical Newsletter Operations Playbook for AI Agents](/articles/email-operations-playbook/index.md)
-- [Newsletter Skill Audit Checklist: From Prompt to Production](/articles/email-skill-audit-checklist/index.md)
+## Scenarios
+
+### Issue planning
+
+Turn a theme and content inventory into a coherent edition.
+
+### Sponsor inventory
+
+Check slot fit, disclosure, deliverables, and reader experience.
+
+### Reader survey synthesis
+
+Summarize feedback into editorial experiments and retention ideas.
+
+## Operating Proof
+
+- **Best for**: Newsletter operators who repeat the same planning cycle weekly
+- **Primary artifact**: Issue brief with sections, constraints, and QA notes
+- **Stop condition**: Sponsored or claims-heavy content without review
+
+## Agent Resources
+
+- Markdown index: /index.md
+- Skill discovery JSON: /.well-known/skills/index.json
+- Raw SKILL.md: /skills/newsletterskill/SKILL.md
+- Articles: /articles/
