@@ -1,5 +1,5 @@
 ---
-name: newsletter
+name: newsletterskill
 description: Use when Codex or another AI agent needs to plan, review, implement, audit, or improve email work focused on editorial calendars, issue structures, sponsorship slots, and subscriber growth. Triggers include requests about Issue planning, Sponsor inventory, Reader survey synthesis, email briefs, email QA, subscriber journeys, production handoffs, approval gates, and agent-safe email operations.
 ---
 

@@ -5,8 +5,8 @@ Static landing page and Codex skill for newsletterskill.com.
 Install shortcut:
 
 ```bash
-npx skills add newsletter
-npx skills add polnikale/newsletterskill --skill newsletter
+npx skills add newsletterskill
+npx skills add polnikale/newsletterskill --skill newsletterskill
 ```
 
-Raw skill folder: `skills/newsletter`
+Raw skill folder: `skills/newsletterskill`
