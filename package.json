@@ -1,0 +1,23 @@
+{
+  "name": "newsletter",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Newsletter Skill: editorial calendars, issue structures, sponsorship slots, and subscriber growth.",
+  "type": "module",
+  "scripts": {
+    "build": "node -e \"console.log('static public site ready')\"",
+    "validate": "node scripts/validate.mjs"
+  },
+  "keywords": [
+    "codex-skill",
+    "email",
+    "agents",
+    "newsletter"
+  ],
+  "skill": {
+    "name": "newsletter",
+    "path": "skills/newsletter",
+    "install": "npx skills add newsletter",
+    "githubInstall": "npx skills add polnikale/newsletterskill --skill newsletter"
+  }
+}
