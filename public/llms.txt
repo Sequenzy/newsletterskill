@@ -1,0 +1,22 @@
+# Newsletter Skill
+
+Newsletter Skill is a skill package for editorial calendars, issue structures, sponsorship slots, and subscriber growth.
+
+Install:
+
+```bash
+npx skills add newsletterskill
+```
+
+## Primary agent resources
+
+- Markdown index: https://newsletterskill.com/index.md
+- Skill page: https://newsletterskill.com/skill/index.md
+- Raw SKILL.md: https://newsletterskill.com/skills/newsletterskill/SKILL.md
+- Skill discovery JSON: https://newsletterskill.com/.well-known/skills/index.json
+
+## Articles
+
+- How to Build an Agent-Ready Newsletter Strategy: https://newsletterskill.com/articles/agent-ready-email-strategy/index.md
+- The Practical Newsletter Operations Playbook for AI Agents: https://newsletterskill.com/articles/email-operations-playbook/index.md
+- Newsletter Skill Audit Checklist: From Prompt to Production: https://newsletterskill.com/articles/email-skill-audit-checklist/index.md

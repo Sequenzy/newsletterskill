@@ -1,0 +1,13 @@
+{
+  "skills": [
+    {
+      "name": "newsletterskill",
+      "title": "Newsletter Skill",
+      "description": "Newsletter Skill: editorial calendars, issue structures, sponsorship slots, and subscriber growth.",
+      "install": "npx skills add newsletterskill",
+      "skill_url": "https://newsletterskill.com/skills/newsletterskill/SKILL.md",
+      "markdown_url": "https://newsletterskill.com/skill/index.md",
+      "homepage_url": "https://newsletterskill.com/"
+    }
+  ]
+}
