@@ -6,7 +6,6 @@ Install shortcut:
 
 ```bash
 npx skills add newsletterskill
-npx skills add Sequenzy/newsletterskill --skill newsletterskill
 ```
 
 Raw skill folder: `skills/newsletterskill`

@@ -17,7 +17,6 @@
   "skill": {
     "name": "newsletterskill",
     "path": "skills/newsletterskill",
-    "install": "npx skills add newsletterskill",
-    "githubInstall": "npx skills add Sequenzy/newsletterskill --skill newsletterskill"
+    "install": "npx skills add newsletterskill"
   }
 }
