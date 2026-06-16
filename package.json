@@ -18,6 +18,6 @@
     "name": "newsletterskill",
     "path": "skills/newsletterskill",
     "install": "npx skills add newsletterskill",
-    "githubInstall": "npx skills add polnikale/newsletterskill --skill newsletterskill"
+    "githubInstall": "npx skills add Sequenzy/newsletterskill --skill newsletterskill"
   }
 }
