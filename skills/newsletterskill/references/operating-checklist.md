@@ -1,30 +1,27 @@
 # Newsletter Skill Operating Checklist
 
-Use this checklist when the request involves editorial calendars, issue structures, sponsorship slots, and subscriber growth or could affect a live email system.
+Use this checklist when the request involves editorial calendars, issue structure, sponsorship inventory, reader growth, and retention loops or could affect a live email system.
 
 ## Intake
 
-- Audience and segment definition
-- Lifecycle moment or campaign purpose
-- Sending platform and source of truth
-- Existing template, copy, or automation screenshot
-- Recent delivery, engagement, unsubscribe, and complaint ranges
-- Legal or compliance constraints
-- Required approval owner
+- Newsletter positioning, audience, cadence, and current list size
+- Recent issues, engagement metrics, replies, survey data, and unsubscribe reasons
+- Content inventory, publication constraints, and recurring sections
+- Sponsor commitments, ad guidelines, and inventory availability
+- Growth channels, referral mechanics, and onboarding sequence
 
 ## QA
 
-- Confirm the subject line matches the body promise.
-- Confirm links, personalization fields, fallbacks, and unsubscribe paths.
-- Confirm exclusions and suppression logic.
-- Confirm mobile readability and plain-language CTA.
-- Confirm the sender identity and reply handling.
-- Confirm metric baseline before recommending changes.
+- Confirm the subject line matches the issue's strongest promise.
+- Confirm the first screen gives value before asking for a click.
+- Confirm sponsor copy is distinct from editorial copy.
+- Confirm the calendar is feasible with available content supply.
+- Confirm reader feedback is turned into a next editorial action.
 
 ## Risk Gates
 
-Low risk: summaries, drafts, analysis, naming suggestions.
+Low risk: research, summaries, drafts, critiques, naming, and non-production recommendations.
 
-Medium risk: template edits, segment recommendations, automation diagrams, A/B test plans.
+Medium risk: template edits, segment recommendations, automation diagrams, experiments, imports prepared for review, and code changes that need deployment.
 
-High risk: sending, contact imports, DNS/authentication changes, suppression edits, production automation changes.
+High risk: live sends, contact imports, suppression edits, DNS/authentication changes, production automation changes, provider migrations, and destructive cleanup. Stop and request explicit approval before high-risk actions.
