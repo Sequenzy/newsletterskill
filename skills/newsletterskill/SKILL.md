@@ -7,6 +7,18 @@ description: "Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another 
 
 Think like an editor with a measurable distribution system. Every issue needs a promise, recurring structure, reader value, and feedback loop.
 
+## Decision Lens
+
+- Primary lens: editorial calendars, issue structure, sponsorship inventory, reader growth, and retention loops.
+- Common request signals: issue planning, sponsor inventory, reader survey synthesis, newsletter audits, editorial calendars, and subscriber growth reviews.
+- Default posture: Think like an editor with a measurable distribution system. Every issue needs a promise, recurring structure, reader value, and feedback loop.
+- Useful output family: issue outlines, editorial calendars, sponsor slot plans, reader survey syntheses, growth experiments, and retention audits.
+- Production boundary: separate recommendation from execution.
+- Evidence boundary: say which source material supports the recommendation.
+- Review boundary: identify the human owner for risky changes.
+- Data boundary: do not assume missing fields, consent, or suppression state.
+- Platform boundary: describe provider-specific steps in operational language.
+
 ## When To Use
 
 Use this skill for editorial calendars, issue structure, sponsorship inventory, reader growth, and retention loops. It is designed for agent workflows where email work must be specific, reviewable, and safe across planning, drafting, implementation, QA, or operational handoff.
